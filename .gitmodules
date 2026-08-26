@@ -1,0 +1,3 @@
+[submodule "renovate-41757-reproducer-private"]
+	path = renovate-41757-reproducer-private
+	url = git@github.com:samgiz/renovate-41757-reproducer-private.git
